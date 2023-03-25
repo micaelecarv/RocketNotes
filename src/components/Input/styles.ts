@@ -10,6 +10,7 @@ export const Container = styled.header`
 
   margin-bottom: 8px;
   border-radius: 10px;
+  padding-left: 14px;
 
   > svg {
     margin-left: 0 16px;
